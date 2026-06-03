@@ -1,0 +1,11 @@
+# 대용량 모델 파일 제외
+*.pth
+*.pt
+*.ckpt
+*.h5
+
+# 데이터셋 및 체크포인트 폴더 제외
+openvla-runs/
+dataset/
+tfds/
+rlds/
