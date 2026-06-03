@@ -1,0 +1,38 @@
+PS D:\Downloads\클라이언트_코드> python openvla_multicolor_client.py --server_url http://127.0.0.1:8000 --xml_path Raccoon_colored_cylinder.xml --target_color blue_sphere --task_type push --speed 100 --settle_seconds_per_action 0.4 --max_delta_xyz 0.012 --delta_scale 1.5 --min_object_distance 0.05 --object_x_range -0.13 0.13 --use_viewer
+[CLEANUP] removed 42 existing image files from rollout_outputs\episode_000001
+[DEBUG] current ee from get_ee_pose = (0.00, 14.74, 9.44) cm
+[DEBUG] IK(current ee) = [-0.005280205391976726, -10.001870609331936, -140.00075796191655, 60.00262857124849]
+[SCENE] task_type='push' | instruction='push the blue sphere' | target_color='blue_sphere' | target_xy=(-0.067, 0.172)
+[000] OK | final_delta=[-0.0084, 0.0042, -0.0007] | move=[-0.0084, 0.0042, -0.0007] | target=[-0.0084, 0.1515, 0.0935] | gripper=0.0 | retries=0
+[001] OK | final_delta=[-0.012, 0.0083, 0.0015] | move=[-0.012, 0.0083, 0.0015] | target=[-0.0201, 0.1583, 0.095] | gripper=0.0 | retries=0
+[002] OK | final_delta=[-0.012, 0.0083, 0.0015] | move=[-0.012, 0.0083, 0.0015] | target=[-0.0315, 0.1636, 0.0958] | gripper=0.0 | retries=0
+[003] OK | final_delta=[-0.012, -0.0004, 0.0016] | move=[-0.012, -0.0004, 0.0016] | target=[-0.0427, 0.1602, 0.0967] | gripper=0.0 | retries=0
+[004] OK | final_delta=[-0.012, -0.004, 0.0011] | move=[-0.012, -0.004, 0.0011] | target=[-0.0543, 0.1555, 0.097] | gripper=0.0 | retries=0
+[005] OK | final_delta=[-0.0059, 0.0015, 0.001] | move=[-0.0059, 0.0015, 0.001] | target=[-0.0599, 0.1571, 0.0974] | gripper=0.0 | retries=0
+[006] OK | final_delta=[-0.0059, 0.0015, 0.001] | move=[-0.0059, 0.0015, 0.001] | target=[-0.0653, 0.1575, 0.0977] | gripper=0.0 | retries=0
+[007] OK | final_delta=[-0.0006, 0.001, 0.0003] | move=[-0.0006, 0.001, 0.0003] | target=[-0.0653, 0.1575, 0.0974] | gripper=0.0 | retries=0
+[008] OK | final_delta=[-0.0003, 0.0008, 0.0002] | move=[-0.0003, 0.0008, 0.0002] | target=[-0.0655, 0.1579, 0.0972] | gripper=0.0 | retries=0
+[009] OK | final_delta=[-0.0003, 0.0007, 0.0002] | move=[-0.0003, 0.0007, 0.0002] | target=[-0.0656, 0.1583, 0.097] | gripper=0.0 | retries=0
+[010] OK | final_delta=[-0.0003, 0.0008, 0.0002] | move=[-0.0003, 0.0008, 0.0002] | target=[-0.0658, 0.1588, 0.0968] | gripper=0.0 | retries=0
+[011] OK | final_delta=[-0.0003, 0.0007, 0.0002] | move=[-0.0003, 0.0007, 0.0002] | target=[-0.0659, 0.1592, 0.0965] | gripper=0.0 | retries=0
+[012] OK | final_delta=[-0.0023, 0.0049, -0.0016] | move=[-0.0023, 0.0049, -0.0016] | target=[-0.0681, 0.1638, 0.0945] | gripper=1.0 | retries=0
+[013] OK | final_delta=[-0.004, 0.0072, -0.012] | move=[-0.004, 0.0072, -0.012] | target=[-0.0715, 0.1694, 0.0827] | gripper=1.0 | retries=0
+[014] OK | final_delta=[-0.0011, 0.0019, -0.012] | move=[-0.0011, 0.0019, -0.012] | target=[-0.0715, 0.169, 0.0746] | gripper=1.0 | retries=0
+[015] OK | final_delta=[-0.0006, 0.0009, -0.012] | move=[-0.0006, 0.0009, -0.012] | target=[-0.0719, 0.1693, 0.066] | gripper=1.0 | retries=0
+[016] OK | final_delta=[0.0005, -0.0011, -0.012] | move=[0.0005, -0.0011, -0.012] | target=[-0.0713, 0.1679, 0.0575] | gripper=1.0 | retries=0
+[017] OK | final_delta=[0.0016, -0.0025, -0.012] | move=[0.0016, -0.0025, -0.012] | target=[-0.0698, 0.1658, 0.0489] | gripper=1.0 | retries=0
+[018] OK | final_delta=[0.0019, -0.0038, -0.012] | move=[0.0019, -0.0038, -0.012] | target=[-0.0683, 0.1628, 0.0402] | gripper=1.0 | retries=0
+[019] OK | final_delta=[0.0019, -0.0038, -0.012] | move=[0.0019, -0.0038, -0.012] | target=[-0.0669, 0.1601, 0.0316] | gripper=1.0 | retries=0
+[020] OK | final_delta=[0.0014, -0.004, -0.0101] | move=[0.0014, -0.004, -0.0101] | target=[-0.066, 0.1573, 0.0249] | gripper=1.0 | retries=0
+[021] OK | final_delta=[0.0013, -0.004, -0.0075] | move=[0.0013, -0.004, -0.0075] | target=[-0.0652, 0.1545, 0.0202] | gripper=1.0 | retries=0
+[022] OK | final_delta=[0.0013, -0.004, -0.0064] | move=[0.0013, -0.004, -0.0028] | target=[-0.0653, 0.1533, 0.02] | gripper=1.0 | retries=0
+[023] OK | final_delta=[0.0013, -0.004, -0.0064] | move=[0.0013, -0.004, -0.001] | target=[-0.0647, 0.1527, 0.02] | gripper=1.0 | retries=0
+[024] OK | final_delta=[0.0008, -0.0015, -0.0034] | move=[0.0008, -0.0015, -0.0004] | target=[-0.0635, 0.154, 0.02] | gripper=1.0 | retries=0
+[025] OK | final_delta=[0.0002, -0.0014, -0.0039] | move=[0.0002, -0.0014, -0.0003] | target=[-0.0627, 0.1541, 0.02] | gripper=1.0 | retries=0
+[026] OK | final_delta=[-0.0029, 0.0112, -0.0018] | move=[-0.0029, 0.0112, -0.0002] | target=[-0.0651, 0.1665, 0.02] | gripper=1.0 | retries=0
+[027] OK | final_delta=[-0.0048, 0.012, -0.0034] | move=[-0.0048, 0.012, -0.0003] | target=[-0.069, 0.1695, 0.02] | gripper=1.0 | retries=0
+[028] OK | final_delta=[-0.0004, 0.0018, -0.0] | move=[-0.0004, 0.0018, 0.0005] | target=[-0.0678, 0.1667, 0.02] | gripper=1.0 | retries=0
+[029] OK | final_delta=[0.0, -0.0, -0.0] | move=[0.0, -0.0, 0.0007] | target=[-0.0675, 0.1654, 0.02] | gripper=1.0 | retries=0
+[030] OK | final_delta=[-0.0004, 0.0018, -0.0] | move=[-0.0004, 0.0018, 0.0007] | target=[-0.0679, 0.1667, 0.02] | gripper=1.0 | retries=0
+
+🎉 [TASK SUCCESS] blue_sphere push 완료! 물체를 충분히 밀어냈습니다. (이동 거리: 0.015m)

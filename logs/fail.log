@@ -1,0 +1,27 @@
+PS D:\Downloads\클라이언트_코드> python openvla_multicolor_client.py --server_url http://127.0.0.1:8000 --xml_path Raccoon_colored_cylinder.xml --target_color random --task_type push --speed 100 --settle_seconds_per_action 0.4 --max_delta_xyz 0.012 --delta_scale 1.5 --min_object_distance 0.05 --object_x_range -0.13 0.13 --use_viewer --max_steps 20
+[CLEANUP] removed 11 existing image files from rollout_outputs\episode_000001
+[DEBUG] current ee from get_ee_pose = (0.00, 14.74, 9.44) cm
+[DEBUG] IK(current ee) = [-0.005280205391976726, -10.001870609331936, -140.00075796191655, 60.00262857124849]
+[SCENE] task_type='push' | instruction='push the yellow cylinder' | target_color='yellow' | target_xy=(0.108, 0.195)
+[000] OK | final_delta=[0.0084, 0.0042, -0.001] | move=[0.0084, 0.0042, -0.001] | target=[0.0084, 0.1515, 0.0932] | gripper=0.0 | retries=0
+[001] OK | final_delta=[0.012, 0.0083, 0.0002] | move=[0.012, 0.0083, 0.0002] | target=[0.0202, 0.1583, 0.0935] | gripper=0.0 | retries=0
+[002] OK | final_delta=[0.012, 0.0086, -0.0025] | move=[0.012, 0.0086, -0.0025] | target=[0.0316, 0.164, 0.0908] | gripper=0.0 | retries=0
+[003] OK | final_delta=[0.012, 0.0086, -0.0023] | move=[0.012, 0.0086, -0.0023] | target=[0.0427, 0.1694, 0.0891] | gripper=0.0 | retries=0
+[004] OK | final_delta=[0.012, -0.004, 0.0013] | move=[0.012, -0.004, 0.0013] | target=[0.0537, 0.162, 0.0909] | gripper=0.0 | retries=0
+[005] OK | final_delta=[0.012, -0.004, 0.0011] | move=[0.012, -0.004, 0.0011] | target=[0.0655, 0.1582, 0.0913] | gripper=0.0 | retries=0
+[006] OK | final_delta=[0.012, -0.004, 0.0011] | move=[0.012, -0.004, 0.0011] | target=[0.0771, 0.1541, 0.0918] | gripper=0.0 | retries=0
+[007] OK | final_delta=[0.012, -0.004, 0.0011] | move=[0.012, -0.004, 0.0011] | target=[0.0887, 0.1497, 0.0922] | gripper=0.0 | retries=0
+[008] OK | final_delta=[0.0095, 0.0052, 0.0018] | move=[0.0095, 0.0052, 0.0018] | target=[0.0976, 0.1544, 0.0933] | gripper=0.0 | retries=0
+[009] OK | final_delta=[0.0095, 0.0055, 0.0018] | move=[0.0095, 0.0055, 0.0018] | target=[0.1054, 0.1573, 0.0941] | gripper=0.0 | retries=0
+[010] OK | final_delta=[0.0059, 0.0055, 0.0018] | move=[0.0059, 0.0055, 0.0018] | target=[0.1095, 0.1603, 0.0949] | gripper=1.0 | retries=0
+[011] OK | final_delta=[0.0047, 0.0058, -0.0075] | move=[0.0047, 0.0058, -0.0075] | target=[0.1128, 0.164, 0.0864] | gripper=1.0 | retries=0
+[012] OK | final_delta=[0.0021, 0.0024, -0.012] | move=[0.0021, 0.0024, -0.012] | target=[0.1135, 0.1646, 0.0765] | gripper=1.0 | retries=0
+[013] OK | final_delta=[0.0005, 0.0006, -0.012] | move=[0.0005, 0.0006, -0.012] | target=[0.1135, 0.1644, 0.0678] | gripper=1.0 | retries=0
+[014] OK | final_delta=[-0.0004, -0.0007, -0.012] | move=[-0.0004, -0.0007, -0.012] | target=[0.1129, 0.1635, 0.0591] | gripper=1.0 | retries=0
+[015] OK | final_delta=[-0.0008, -0.001, -0.012] | move=[-0.0008, -0.001, -0.012] | target=[0.1122, 0.1627, 0.0504] | gripper=1.0 | retries=0
+[016] OK | final_delta=[-0.0017, -0.002, -0.012] | move=[-0.0017, -0.002, -0.012] | target=[0.1107, 0.161, 0.0417] | gripper=1.0 | retries=0
+[017] OK | final_delta=[-0.0012, -0.0016, -0.012] | move=[-0.0012, -0.0016, -0.012] | target=[0.1099, 0.16, 0.0329] | gripper=1.0 | retries=0
+[018] OK | final_delta=[-0.0009, -0.0013, -0.0052] | move=[-0.0009, -0.0013, -0.0052] | target=[0.1093, 0.1591, 0.031] | gripper=1.0 | retries=0
+[019] OK | final_delta=[-0.0008, -0.0011, -0.0039] | move=[-0.0008, -0.0011, -0.0039] | target=[0.1087, 0.1582, 0.0282] | gripper=1.0 | retries=0
+
+[STOP] max_steps reached. 태스크에 실패했거나 목표 도달에 너무 오래 걸렸습니다.

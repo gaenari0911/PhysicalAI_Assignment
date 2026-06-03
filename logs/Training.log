@@ -1,0 +1,290 @@
+Fetching 15 files:   0%|                                 | 0/15 [00:00<?, ?it/s]Downloading 'model-00001-of-00004.safetensors' to '/data/2021741050/Raccoonbot_Openvla/openvla/openvla-runs/openvla-7b-finetuned-raccoonbot/.cache/huggingface/download/IO4xwqmZYzFmxznkwkiNSBwO1H0=.fe956dad1f3ec9db4b347f86d682ef65f82b7cb638b16ca8bb7c1dc6c2c6a175.incomplete'
+Downloading 'model-00003-of-00004.safetensors' to '/data/2021741050/Raccoonbot_Openvla/openvla/openvla-runs/openvla-7b-finetuned-raccoonbot/.cache/huggingface/download/DaGOU-KRMVrY0aYktrsE34tL0Bs=.917531dc715eb7e914cf194a1516af876e742230a3478068e1c8cc45840824b3.incomplete'
+Downloading 'model-00002-of-00004.safetensors' to '/data/2021741050/Raccoonbot_Openvla/openvla/openvla-runs/openvla-7b-finetuned-raccoonbot/.cache/huggingface/download/t9msAuTjAZjuQnmzGOwTjiptvIU=.7d8c4276a41fee2bcd860c66426074361a0551c94a461197b7866454a8532a88.incomplete'
+Downloading 'model-00004-of-00004.safetensors' to '/data/2021741050/Raccoonbot_Openvla/openvla/openvla-runs/openvla-7b-finetuned-raccoonbot/.cache/huggingface/download/-dFtyT7kcgbTHt1cy9JKqruJCR4=.de78f6e364c36feb329fb8431aaba47147210f154774a4f530f72f4898cebc1a.incomplete'
+
+model-00001-of-00004.safetensors:   0%|             | 0.00/4.93G [00:00<?, ?B/s]
+
+model-00003-of-00004.safetensors:   0%|             | 0.00/4.95G [00:00<?, ?B/s]
+
+
+model-00002-of-00004.safetensors:   0%|             | 0.00/4.95G [00:00<?, ?B/s]
+
+
+
+model-00004-of-00004.safetensors:   0%|              | 0.00/263M [00:00<?, ?B/s]
+model-00001-of-00004.safetensors:   4%|▏    | 206M/4.93G [01:31<35:00, 2.25MB/s]
+model-00001-of-00004.safetensors:   4%|▏    | 217M/4.93G [01:37<35:27, 2.21MB/s]
+model-00001-of-00004.safetensors:   5%|▎    | 266M/4.93G [01:47<29:08, 2.67MB/s]
+
+
+model-00002-of-00004.safetensors:   1%|   | 67.1M/4.95G [01:48<2:11:15, 620kB/s]
+
+model-00003-of-00004.safetensors:   3%|   | 134M/4.95G [01:49<1:05:30, 1.22MB/s]
+
+model-00003-of-00004.safetensors:   5%|▎    | 268M/4.95G [01:51<26:48, 2.91MB/s]
+
+
+model-00002-of-00004.safetensors:   4%|▏    | 201M/4.95G [01:57<37:01, 2.14MB/s]
+model-00001-of-00004.safetensors:   5%|▎    | 266M/4.93G [01:59<29:08, 2.67MB/s]
+model-00001-of-00004.safetensors:   7%|▎    | 333M/4.93G [02:04<25:05, 3.05MB/s]
+
+model-00003-of-00004.safetensors:   5%|▎    | 268M/4.95G [02:09<26:48, 2.91MB/s]
+
+
+model-00002-of-00004.safetensors:   4%|▏    | 201M/4.95G [02:09<37:01, 2.14MB/s]
+model-00001-of-00004.safetensors:   7%|▎    | 333M/4.93G [02:19<25:05, 3.05MB/s]
+
+
+model-00002-of-00004.safetensors:   5%|▎    | 256M/4.95G [02:28<39:01, 2.00MB/s]
+
+
+model-00002-of-00004.safetensors:   5%|▎    | 256M/4.95G [02:39<39:01, 2.00MB/s]
+model-00001-of-00004.safetensors:  12%|▌    | 601M/4.93G [02:53<16:25, 4.39MB/s]
+
+
+model-00002-of-00004.safetensors:   5%|▎    | 268M/4.95G [02:53<49:12, 1.59MB/s]
+
+model-00003-of-00004.safetensors:   8%|▍    | 402M/4.95G [03:04<32:54, 2.30MB/s]
+
+
+model-00002-of-00004.safetensors:   7%|▎    | 335M/4.95G [03:04<33:52, 2.27MB/s]
+model-00001-of-00004.safetensors:  12%|▌    | 601M/4.93G [03:09<16:25, 4.39MB/s]
+
+model-00003-of-00004.safetensors:   8%|▍    | 402M/4.95G [03:19<32:54, 2.30MB/s]
+
+
+model-00002-of-00004.safetensors:   7%|▎    | 335M/4.95G [03:19<33:52, 2.27MB/s]
+
+
+model-00002-of-00004.safetensors:   8%|▍    | 402M/4.95G [03:22<28:46, 2.63MB/s]
+
+model-00003-of-00004.safetensors:  11%|▌    | 537M/4.95G [03:37<26:28, 2.78MB/s]
+
+
+model-00002-of-00004.safetensors:   8%|▍    | 402M/4.95G [03:39<28:46, 2.63MB/s]
+
+model-00003-of-00004.safetensors:  11%|▌    | 537M/4.95G [03:49<26:28, 2.78MB/s]
+
+model-00003-of-00004.safetensors:  12%|▌    | 604M/4.95G [04:01<26:02, 2.78MB/s]
+
+model-00003-of-00004.safetensors:  12%|▌    | 604M/4.95G [04:19<26:02, 2.78MB/s]
+
+model-00003-of-00004.safetensors:  14%|▋    | 671M/4.95G [04:19<24:12, 2.94MB/s]
+
+model-00003-of-00004.safetensors:  14%|▋    | 671M/4.95G [04:39<24:12, 2.94MB/s]
+
+
+model-00002-of-00004.safetensors:  16%|▊    | 805M/4.95G [05:19<21:31, 3.21MB/s]
+
+
+model-00002-of-00004.safetensors:  16%|▊    | 805M/4.95G [05:29<21:31, 3.21MB/s]
+
+model-00003-of-00004.safetensors:  16%|▊    | 805M/4.95G [05:29<28:36, 2.41MB/s]
+
+
+model-00002-of-00004.safetensors:  19%|▉    | 939M/4.95G [05:30<16:43, 3.99MB/s]
+
+
+model-00002-of-00004.safetensors:  24%|▉   | 1.21G/4.95G [05:42<10:08, 6.14MB/s]
+
+model-00003-of-00004.safetensors:  19%|▉    | 939M/4.95G [05:45<20:26, 3.27MB/s]
+
+model-00003-of-00004.safetensors:  24%|▉   | 1.21G/4.95G [05:53<10:12, 6.11MB/s]
+
+
+model-00002-of-00004.safetensors:  24%|▉   | 1.21G/4.95G [05:59<10:08, 6.14MB/s]
+
+model-00003-of-00004.safetensors:  24%|▉   | 1.21G/4.95G [06:09<10:12, 6.11MB/s]
+
+model-00003-of-00004.safetensors:  26%|█   | 1.27G/4.95G [06:18<12:00, 5.10MB/s]
+
+model-00003-of-00004.safetensors:  27%|█   | 1.34G/4.95G [06:23<10:27, 5.74MB/s]
+
+model-00003-of-00004.safetensors:  28%|█▏  | 1.41G/4.95G [06:28<09:01, 6.54MB/s]
+
+model-00003-of-00004.safetensors:  28%|█▏  | 1.41G/4.95G [06:39<09:01, 6.54MB/s]
+
+
+model-00002-of-00004.safetensors:  28%|█▏  | 1.41G/4.95G [06:46<12:27, 4.74MB/s]
+
+
+model-00002-of-00004.safetensors:  28%|█▏  | 1.41G/4.95G [06:59<12:27, 4.74MB/s]
+
+model-00003-of-00004.safetensors:  30%|█▏  | 1.48G/4.95G [07:03<13:47, 4.20MB/s]
+
+model-00003-of-00004.safetensors:  30%|█▏  | 1.48G/4.95G [07:19<13:47, 4.20MB/s]
+
+
+
+model-00004-of-00004.safetensors: 100%|███████| 263M/263M [08:28<00:00, 517kB/s]
+Download complete. Moving file to /data/2021741050/Raccoonbot_Openvla/openvla/openvla-runs/openvla-7b-finetuned-raccoonbot/model-00004-of-00004.safetensors
+
+
+model-00003-of-00004.safetensors:  56%|██▏ | 2.75G/4.95G [08:59<04:04, 8.97MB/s]
+
+
+model-00002-of-00004.safetensors:  46%|█▊  | 2.28G/4.95G [09:03<07:48, 5.69MB/s]
+model-00001-of-00004.safetensors:  31%|█▎  | 1.54G/4.93G [09:08<20:22, 2.77MB/s]
+
+model-00003-of-00004.safetensors:  56%|██▏ | 2.75G/4.95G [09:09<04:04, 8.97MB/s]
+
+
+model-00002-of-00004.safetensors:  46%|█▊  | 2.28G/4.95G [09:19<07:48, 5.69MB/s]
+model-00001-of-00004.safetensors:  31%|█▎  | 1.54G/4.93G [09:19<20:22, 2.77MB/s]
+model-00001-of-00004.safetensors:  33%|█▎  | 1.61G/4.93G [10:05<21:54, 2.52MB/s]
+model-00001-of-00004.safetensors:  33%|█▎  | 1.61G/4.93G [10:19<21:54, 2.52MB/s]
+
+
+model-00002-of-00004.safetensors:  47%|█▉  | 2.35G/4.95G [10:20<10:27, 4.15MB/s]
+
+
+model-00002-of-00004.safetensors:  52%|██  | 2.55G/4.95G [10:35<08:09, 4.90MB/s]
+
+model-00003-of-00004.safetensors:  58%|██▎ | 2.88G/4.95G [10:38<06:17, 5.46MB/s]
+
+model-00003-of-00004.safetensors:  58%|██▎ | 2.88G/4.95G [10:49<06:17, 5.46MB/s]
+
+
+model-00002-of-00004.safetensors:  52%|██  | 2.55G/4.95G [10:49<08:09, 4.90MB/s]
+model-00001-of-00004.safetensors:  34%|█▎  | 1.67G/4.93G [10:53<23:06, 2.34MB/s]
+model-00001-of-00004.safetensors:  34%|█▎  | 1.67G/4.93G [11:09<23:06, 2.34MB/s]
+
+
+model-00002-of-00004.safetensors:  53%|██  | 2.62G/4.95G [11:10<09:06, 4.27MB/s]
+model-00001-of-00004.safetensors:  35%|█▍  | 1.74G/4.93G [11:20<22:28, 2.36MB/s]
+
+
+model-00002-of-00004.safetensors:  54%|██▏ | 2.68G/4.95G [11:21<08:33, 4.41MB/s]
+
+
+model-00002-of-00004.safetensors:  54%|██▏ | 2.68G/4.95G [11:39<08:33, 4.41MB/s]
+model-00001-of-00004.safetensors:  35%|█▍  | 1.74G/4.93G [11:39<22:28, 2.36MB/s]
+
+
+model-00002-of-00004.safetensors:  58%|██▎ | 2.88G/4.95G [12:00<07:24, 4.64MB/s]
+model-00001-of-00004.safetensors:  37%|█▍  | 1.81G/4.93G [12:07<24:07, 2.15MB/s]
+
+
+model-00002-of-00004.safetensors:  60%|██▍ | 2.95G/4.95G [12:18<07:23, 4.50MB/s]
+model-00001-of-00004.safetensors:  37%|█▍  | 1.81G/4.93G [12:19<24:07, 2.15MB/s]
+model-00001-of-00004.safetensors:  38%|█▌  | 1.88G/4.93G [12:20<21:18, 2.39MB/s]
+
+
+model-00002-of-00004.safetensors:  60%|██▍ | 2.95G/4.95G [12:29<07:23, 4.50MB/s]
+
+model-00003-of-00004.safetensors:  70%|██▊ | 3.49G/4.95G [12:39<04:38, 5.24MB/s]
+model-00001-of-00004.safetensors:  38%|█▌  | 1.88G/4.93G [12:39<21:18, 2.39MB/s]
+
+model-00003-of-00004.safetensors:  70%|██▊ | 3.49G/4.95G [12:49<04:38, 5.24MB/s]
+
+
+model-00002-of-00004.safetensors:  69%|██▊ | 3.42G/4.95G [12:55<03:30, 7.25MB/s]
+model-00001-of-00004.safetensors:  41%|█▋  | 2.01G/4.93G [13:01<18:29, 2.63MB/s]
+
+
+model-00002-of-00004.safetensors:  72%|██▊ | 3.55G/4.95G [13:08<03:01, 7.67MB/s]
+
+
+model-00002-of-00004.safetensors:  75%|██▉ | 3.69G/4.95G [13:18<02:29, 8.45MB/s]
+model-00001-of-00004.safetensors:  41%|█▋  | 2.01G/4.93G [13:19<18:29, 2.63MB/s]
+
+
+model-00002-of-00004.safetensors:  75%|██▉ | 3.69G/4.95G [13:29<02:29, 8.45MB/s]
+model-00001-of-00004.safetensors:  45%|█▊  | 2.21G/4.93G [13:44<14:04, 3.22MB/s]
+model-00001-of-00004.safetensors:  45%|█▊  | 2.21G/4.93G [13:59<14:04, 3.22MB/s]
+model-00001-of-00004.safetensors:  46%|█▊  | 2.28G/4.93G [14:31<16:34, 2.66MB/s]
+model-00001-of-00004.safetensors:  46%|█▊  | 2.28G/4.93G [14:49<16:34, 2.66MB/s]
+model-00001-of-00004.safetensors:  48%|█▉  | 2.34G/4.93G [15:19<19:00, 2.26MB/s]
+model-00001-of-00004.safetensors:  48%|█▉  | 2.34G/4.93G [15:39<19:00, 2.26MB/s]
+
+model-00003-of-00004.safetensors:  81%|███▎| 4.02G/4.95G [16:33<04:15, 3.61MB/s]
+
+model-00003-of-00004.safetensors:  83%|███▎| 4.09G/4.95G [16:43<03:50, 3.72MB/s]
+model-00001-of-00004.safetensors:  79%|███▏| 3.89G/4.93G [16:49<01:54, 9.01MB/s]
+model-00001-of-00004.safetensors:  83%|███▎| 4.07G/4.93G [16:50<01:23, 10.3MB/s]
+model-00001-of-00004.safetensors:  84%|███▎| 4.14G/4.93G [16:58<01:16, 10.2MB/s]
+
+model-00003-of-00004.safetensors:  83%|███▎| 4.09G/4.95G [16:59<03:50, 3.72MB/s]
+
+model-00003-of-00004.safetensors:  84%|███▎| 4.16G/4.95G [17:08<03:38, 3.61MB/s]
+model-00001-of-00004.safetensors:  84%|███▎| 4.14G/4.93G [17:09<01:16, 10.2MB/s]
+
+
+model-00002-of-00004.safetensors:  77%|███ | 3.82G/4.95G [17:16<09:32, 1.96MB/s]
+
+model-00003-of-00004.safetensors:  84%|███▎| 4.16G/4.95G [17:19<03:38, 3.61MB/s]
+
+model-00003-of-00004.safetensors:  85%|███▍| 4.22G/4.95G [17:20<03:12, 3.75MB/s]
+model-00001-of-00004.safetensors:  86%|███▍| 4.21G/4.93G [17:24<01:27, 8.19MB/s]
+
+
+model-00002-of-00004.safetensors:  77%|███ | 3.82G/4.95G [17:29<09:32, 1.96MB/s]
+
+model-00003-of-00004.safetensors:  87%|███▍| 4.29G/4.95G [17:31<02:47, 3.92MB/s]
+model-00001-of-00004.safetensors:  86%|███▍| 4.21G/4.93G [17:39<01:27, 8.19MB/s]
+
+model-00003-of-00004.safetensors:  88%|███▌| 4.36G/4.95G [17:41<02:21, 4.17MB/s]
+model-00001-of-00004.safetensors:  87%|███▍| 4.28G/4.93G [17:43<01:29, 7.19MB/s]
+
+model-00003-of-00004.safetensors:  89%|███▌| 4.43G/4.95G [17:55<02:02, 4.27MB/s]
+model-00001-of-00004.safetensors:  87%|███▍| 4.28G/4.93G [17:59<01:29, 7.19MB/s]
+
+model-00003-of-00004.safetensors:  89%|███▌| 4.43G/4.95G [18:09<02:02, 4.27MB/s]
+model-00001-of-00004.safetensors:  91%|███▋| 4.48G/4.93G [18:30<01:14, 5.97MB/s]
+model-00001-of-00004.safetensors:  94%|███▋| 4.61G/4.93G [18:31<00:42, 7.48MB/s]
+model-00001-of-00004.safetensors:  96%|███▊| 4.71G/4.93G [18:31<00:22, 9.37MB/s]
+
+model-00003-of-00004.safetensors:  91%|███▋| 4.49G/4.95G [18:36<02:20, 3.23MB/s]
+model-00001-of-00004.safetensors:  97%|███▉| 4.78G/4.93G [18:40<00:16, 9.11MB/s]
+model-00001-of-00004.safetensors:  98%|███▉| 4.85G/4.93G [18:42<00:07, 10.4MB/s]
+model-00001-of-00004.safetensors: 100%|████| 4.93G/4.93G [18:46<00:00, 4.37MB/s]
+Download complete. Moving file to /data/2021741050/Raccoonbot_Openvla/openvla/openvla-runs/openvla-7b-finetuned-raccoonbot/model-00001-of-00004.safetensors
+Fetching 15 files:  40%|█████████▌              | 6/15 [18:46<28:10, 187.82s/it]
+
+model-00003-of-00004.safetensors:  92%|███▋| 4.56G/4.95G [18:47<01:46, 3.63MB/s]
+
+model-00003-of-00004.safetensors:  94%|███▋| 4.63G/4.95G [18:55<01:16, 4.18MB/s]
+
+
+model-00002-of-00004.safetensors:  85%|███▍| 4.22G/4.95G [18:59<04:35, 2.62MB/s]
+
+model-00003-of-00004.safetensors:  94%|███▋| 4.63G/4.95G [19:09<01:16, 4.18MB/s]
+
+
+model-00002-of-00004.safetensors:  85%|███▍| 4.22G/4.95G [19:09<04:35, 2.62MB/s]
+
+model-00003-of-00004.safetensors:  95%|███▊| 4.69G/4.95G [19:16<01:05, 3.87MB/s]
+
+
+model-00002-of-00004.safetensors:  87%|███▍| 4.29G/4.95G [19:19<04:04, 2.68MB/s]
+
+
+model-00002-of-00004.safetensors:  88%|███▌| 4.36G/4.95G [19:26<03:18, 2.97MB/s]
+
+model-00003-of-00004.safetensors:  95%|███▊| 4.69G/4.95G [19:29<01:05, 3.87MB/s]
+
+model-00003-of-00004.safetensors: 100%|████| 4.95G/4.95G [19:30<00:00, 4.23MB/s]
+Download complete. Moving file to /data/2021741050/Raccoonbot_Openvla/openvla/openvla-runs/openvla-7b-finetuned-raccoonbot/model-00003-of-00004.safetensors
+
+
+
+model-00002-of-00004.safetensors:  89%|███▌| 4.43G/4.95G [19:37<02:41, 3.23MB/s]
+
+
+model-00002-of-00004.safetensors:  91%|███▋| 4.49G/4.95G [19:40<01:58, 3.84MB/s]
+
+
+model-00002-of-00004.safetensors:  92%|███▋| 4.56G/4.95G [19:54<01:36, 3.99MB/s]
+
+
+model-00002-of-00004.safetensors:  95%|███▊| 4.69G/4.95G [20:09<00:50, 5.04MB/s]
+
+
+model-00002-of-00004.safetensors:  96%|███▊| 4.76G/4.95G [20:10<00:29, 6.32MB/s]
+
+
+model-00002-of-00004.safetensors: 100%|████| 4.95G/4.95G [20:21<00:00, 4.05MB/s]
+Download complete. Moving file to /data/2021741050/Raccoonbot_Openvla/openvla/openvla-runs/openvla-7b-finetuned-raccoonbot/model-00002-of-00004.safetensors
+Fetching 15 files: 100%|████████████████████████| 15/15 [20:21<00:00, 81.46s/it]
+/data/2021741050/Raccoonbot_Openvla/openvla/openvla-runs/openvla-7b-finetuned-raccoonbot
