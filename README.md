@@ -31,6 +31,7 @@ python openvla_multicolor_client.py \
   --min_object_distance 0.05 \
   --object_x_range -0.13 0.13 \
   --use_viewer
+  
 4.2. Physical Robot Deployment (Real Robot)
 To deploy the trained VLA model onto the actual RaccoonBot hardware along with the external AI webcam setup, use the dedicated real-robot client script.
 
